@@ -1,1 +1,2 @@
-
+Olá 
+Seja bem vindo a segunda parte do curso Git e GitHub
